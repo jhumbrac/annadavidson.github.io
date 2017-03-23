@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Poppins');
+@import url('https://fonts.googleapis.com/css?family=Petit+Formal+Script');
+
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+
+}
+
+body {
+	font-size: 16px;
+	text-align: center;
+}
+h1{
+	font-family: 'Poppins', sans-serif;
+	color: #53bbeb;
+	font-size: 8.45em;
+	letter-spacing: 5px;
+}
+
+h4{
+	font-family: 'Petit Formal Script', cursive;
+	color: #000000;
+	font-size: 1.75em;
+	letter-spacing: 2px;
+}
+
+nav a {
+	text-decoration: none;
+	font-family: 'Poppins', sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: black;
+	margin:auto;
+	padding: 1em;
+	line-height: 5em;
+}
+
+hr{
+	border: none;
+	background-color: #53bbeb;
+	height: 1.2em;	 
+	margin: 1.5em auto;
+	width: 75em auto;
+}
+
+img {
+	width: 100%;
+}
+
+h3 { 
+	font-family: 'Petit Formal Script', cursive;
+	color: #000000;
+	margin-top: 2em;
+	margin-bottom:	1em;		
+}
+
+p{	
+	width: 35em;
+	margin-left: 21.2em;
+}
+
+footer{	
+	font-family: 'Poppins', sans-serif;
+	line-height: 1em
+	padding: 2em;
+	margin-top:	3em;
+}
+
+a{	
+	text-decoration: none;
+	color: #53bbeb;
+	font-weight: bold;
+}
